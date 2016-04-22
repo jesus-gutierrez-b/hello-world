@@ -1,6 +1,4 @@
 # hello-world
-Just another repository
-
 # the same text as the example
 
 Hi, Humans!
